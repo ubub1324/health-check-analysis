@@ -1,3 +1,10 @@
+## Project Structure
+
+health-check-analysis
+│
+├ README.md
+└ health-check-data-analysis.pdf
+
 # Health Check Data Analysis
 
 건강검진 데이터를 활용해  
