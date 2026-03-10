@@ -1,5 +1,5 @@
-# LDL, BMI, 음주 여부와 혈압 간 관계 분석  
-### Health Check Data Statistical Analysis
+# LDL, BMI, 음주 여부와 혈압 간 관계 분석
+Statistical Analysis of Health Indicators Using Health Check Data
 
 건강검진 데이터를 활용해 LDL 콜레스테롤, BMI, 음주 여부와  
 수축기 혈압 간 관계를 통계 분석을 통해 검증한 프로젝트입니다.
