@@ -5,7 +5,7 @@ health-check-analysis
 ├ README.md
 └ health-check-data-analysis.pdf
 
-# Health Check Data Analysis
+# LDL, BMI, 음주 여부와 혈압 간 관계 분석 Health Check Data Statistical Analysis
 
 건강검진 데이터를 활용해  
 LDL 콜레스테롤, BMI, 음주 여부와 수축기 혈압 간 관계를  
