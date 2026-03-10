@@ -55,3 +55,8 @@ LDL 콜레스테롤 수치와 수축기 혈압 간
 ---
 
 ## Project Structure
+
+health-check-analysis
+│
+├ README.md
+└ health-check-analysis.pdf
