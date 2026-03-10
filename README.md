@@ -51,7 +51,7 @@ LDL 콜레스테롤 수치와 수축기 혈압 간
 ## Portfolio
 
 📄 View Full Portfolio  
-- Portfolio PDF: [health-check-analysis.pdf](./health-check-analysis.pdf)
+- Portfolio PDF: [health-check-analysis.pdf](./health-check-data-analysis-portfolio.pdf)
 ---
 
 ## Project Structure
